@@ -1,0 +1,3 @@
+C:/Users/feras/source/repos/IoT_Project_Cpp/IoT_Project/testapp/CMakeFiles/desktop_testapp.dir
+C:/Users/feras/source/repos/IoT_Project_Cpp/IoT_Project/testapp/CMakeFiles/ALL_BUILD.dir
+C:/Users/feras/source/repos/IoT_Project_Cpp/IoT_Project/testapp/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402484299539",
+    "project_id": "piano45-110a7",
+    "storage_bucket": "piano45-110a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402484299539:android:7725b1c2e8cb4aceca7ce6",
+        "android_client_info": {
+          "package_name": "com.technion.pianogameflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402484299539-2ia1rm5eo4856j5h5c995sd2ledmr0c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5wZK9fXfq3ZaJVy_01_-mvHbvLUamMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402484299539-2ia1rm5eo4856j5h5c995sd2ledmr0c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
